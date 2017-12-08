@@ -130,7 +130,10 @@
           {
             "description": "Fix all errors"
           }
-        ]
+        ],
+      "link": "",
+      "mark": null,
+      "comment": ""
     },
     {
       "id": 101,
@@ -144,7 +147,10 @@
           {
             "description": "Connect different components"
           }
-        ]
+        ],
+      "link": "",
+      "mark": null,
+      "comment": ""
     },
     {
       "id": 102,
@@ -161,7 +167,10 @@
           {
             "description": "Fix all errors"
           }
-        ]
+        ],
+      "link": "",
+      "mark": 85,
+      "comment": "Good job!"
     }
   ]
 }
