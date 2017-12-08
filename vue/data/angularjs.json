@@ -113,5 +113,55 @@
         "Front-End Adv 2"
         ]
     }
-    ]
+  ],
+  "homeworks": [
+    {
+      "id": 100,
+      "date": "21-11-2017",
+      "theme": "AngularJS-route",
+      "checked": false,
+      "tasks": [
+          {
+            "description": "Add new page"
+          },
+          {
+            "description": "Add some code"
+          },
+          {
+            "description": "Fix all errors"
+          }
+        ]
+    },
+    {
+      "id": 101,
+      "date": "12-11-2017",
+      "theme": "Vue.js- Vuex",
+      "checked": false,
+      "tasks": [
+          {
+            "description": "Add new data"
+          },
+          {
+            "description": "Connect different components"
+          }
+        ]
+    },
+    {
+      "id": 102,
+      "date": "05-11-2017",
+      "theme": "React-Redux",
+      "checked": true,
+      "tasks": [
+          {
+            "description": "Make input"
+          },
+          {
+            "description": "Add some code"
+          },
+          {
+            "description": "Fix all errors"
+          }
+        ]
+    }
+  ]
 }
