@@ -1,0 +1,16 @@
+{
+  "rooms": [
+    {
+      "id": "15",
+      "label": "Green"
+    },
+    {
+      "id": "16",
+      "label": "Yellow"
+    },
+    {
+      "id": "17",
+      "label": "Red"
+    }
+  ]
+}
